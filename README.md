@@ -1,4 +1,4 @@
-<h1>Hi, I'm John! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/john-douglas-aa8384b9/">IT Support</a>
+<h1>Hi, I'm John! <br/><a href="https://github.com/jdoug309">IT Professional</a>, <a href="https://www.linkedin.com/in/john-douglas-aa8384b9/">IT Support</a>
 
 <h2>👨‍💻 Active Directory Home Lab Projects:</h2>
 
