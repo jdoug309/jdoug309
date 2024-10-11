@@ -1,6 +1,6 @@
 <h1>Hi, I'm John! <br/><a href="https://github.com/jdoug309">IT Professional</a>, <a href="https://www.linkedin.com/in/john-douglas-aa8384b9/">IT Support</a>
 
-<h2>👨‍💻 Active Directory Home Lab Projects:</h2>
+<h2>👨‍💻 IT Home Lab Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
